@@ -1,4 +1,4 @@
 def start_demo():
-  print("demo started!")
+  print("Connection Success!")
   
 start_demo()
